@@ -53,7 +53,9 @@ The project follows these key steps:
 
   * **Test Accuracy:** \~96.5%
   * **Learning Curves:** The training and validation loss/accuracy plots show that the model learns well and does not significantly overfit.
-  * **Confusion Matrix:** 
+  * **Confusion Matrix:**
+  *  ![Confusion Matrix](Confusion_matrix.png)
+
 
 ## How to Use
 
